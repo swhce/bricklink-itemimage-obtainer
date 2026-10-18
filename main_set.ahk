@@ -4,7 +4,7 @@ Gui, Add, Text,, Image Type:
 Gui, Add, ComboBox, vT, box|ins
 Gui, Add, StatusBar,, Bar
 SB_SetText("...")
-Gui, Show,, BrickLink Box Image Obtainer (BLBIO) by JurSecondie
+Gui, Show,, BrickLink Set Image Obtainer (BLSIO) by JurSecondie
 Gui, Show
 return
 
