@@ -1,7 +1,7 @@
 Gui, Add, Text,, Item Number:
 Gui, Add, Edit, vI
 Gui, Add, Text,, Item Type:
-Gui, Add, ComboBox, vT, G|M|P|S|B|C
+Gui, Add, ComboBox, vT, G|M|P|S|B|C|O|I
 Gui, Add, Text,, Image File Extension:
 Gui, Add, ComboBox, vF, jpg|gif
 Gui, Add, Text,, Image Size:
