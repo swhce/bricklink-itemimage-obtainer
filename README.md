@@ -1,5 +1,5 @@
 # bricklink item image obtainer
-an easy-to-use autohotkey-based program that allows you to obtain itemimage links for any items available (such as parts, minifigures, gear, books, catalogs, set box & instructions, and extn images) on the bricklink website.
+an easy-to-use autohotkey-based program that allows you to obtain itemimage links for any items available (such as parts, minifigures, gear, books, catalogs, LEGO set box & instructions, and EXTN images) on the bricklink website.
 
 # dependecies required
 [`autohotkey`](https://autohotkey.com/): more specifically version 1.1, i have not tested this script in any way in version 2.0
