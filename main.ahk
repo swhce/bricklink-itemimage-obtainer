@@ -1,4 +1,4 @@
-Gui, Add, Text,, Item ID:
+Gui, Add, Text,, Item Number:
 Gui, Add, Edit, vI
 Gui, Add, Text,, Item Type:
 Gui, Add, ComboBox, vT, G|M|P|S|B|C
